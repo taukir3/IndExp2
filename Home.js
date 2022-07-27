@@ -30,8 +30,6 @@ const Home = () => {
                 <h5>{item.category}</h5>
                 <p>Description : {item.title}</p>
                 <p>Price : {item.price} $</p>
-                <p>Price : {item.price} $</p>
-                <p>Price : {item.price} $</p>
                 <div className=" d-flex justify-content-around">
                   <button className="btn btn-primary">order Now</button>
                   <button
